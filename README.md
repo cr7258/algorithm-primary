@@ -1,1 +1,1 @@
-# algorithm-primary
+算法基础训练
